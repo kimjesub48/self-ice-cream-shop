@@ -1,0 +1,1364 @@
+{
+ "canvas": [
+  1536,
+  1632
+ ],
+ "logicalScale": 0.666667,
+ "facePoint": [
+  765.0,
+  737.0
+ ],
+ "face": {
+  "top": 397,
+  "chin": 1077,
+  "left": 466,
+  "right": 1064,
+  "W": 598,
+  "cx": 765.0
+ },
+ "points": {
+  "facePoint": [
+   765.0,
+   737.0
+  ],
+  "eyeL": [
+   613.1,
+   693.7
+  ],
+  "eyeR": [
+   916.9,
+   693.7
+  ],
+  "nose": [
+   765.0,
+   830.6
+  ],
+  "mouth": [
+   765.0,
+   952.6
+  ],
+  "cheekL": [
+   577.2,
+   769.6
+  ],
+  "cheekR": [
+   952.8,
+   769.6
+  ],
+  "forehead": [
+   765.0,
+   508.9
+  ],
+  "foreheadL": [
+   645.4,
+   520.9
+  ],
+  "foreheadR": [
+   884.6,
+   520.9
+  ],
+  "chin": [
+   765.0,
+   1023.2
+  ],
+  "clipL": [
+   448.1,
+   479.0
+  ],
+  "clipR": [
+   1081.9,
+   479.0
+  ],
+  "stickerL": [
+   567.7,
+   879.7
+  ],
+  "stickerR": [
+   962.3,
+   879.7
+  ]
+ },
+ "drawOrder": [
+  "friends/*_base",
+  "face/cheeks",
+  "face/nose",
+  "face/mess_* (or _w1/_w2 while wiping)",
+  "makeup/blush_*",
+  "face/eyes_*",
+  "makeup/eyeglitter_*",
+  "face/mouth_* | makeup/lips_*",
+  "face/wet",
+  "face/cream_dots",
+  "face/foam_start|light|full",
+  "face/mask_sheet | face/mask_peel1 | face/mask_peel2",
+  "face/cucumbers",
+  "deco stickers/paints (free)",
+  "face/headband_towel | deco/*_worn",
+  "deco/clip_* (free)",
+  "face/glow"
+ ],
+ "layers": {
+  "friends/yuna_base": {
+   "offset": [
+    0,
+    188
+   ],
+   "size": [
+    1536,
+    1444
+   ],
+   "anchor": [
+    0.49805,
+    0.38019
+   ],
+   "normalize": "identity",
+   "face_after": {
+    "top": 397,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 397,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   }
+  },
+  "friends/doyun_base": {
+   "offset": [
+    0,
+    166
+   ],
+   "size": [
+    1536,
+    1466
+   ],
+   "anchor": [
+    0.49805,
+    0.3895
+   ],
+   "normalize": "similarity s=0.9950 dx=-1.5 dy=2.0",
+   "face_after": {
+    "top": 419,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 413,
+    "chin": 1075,
+    "left": 466,
+    "right": 1067,
+    "W": 601,
+    "cx": 766.5
+   }
+  },
+  "friends/mia_base": {
+   "offset": [
+    0,
+    165
+   ],
+   "size": [
+    1536,
+    1467
+   ],
+   "anchor": [
+    0.49805,
+    0.38991
+   ],
+   "normalize": "similarity s=0.9901 dx=-1.0 dy=1.0",
+   "face_after": {
+    "top": 367,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 358,
+    "chin": 1076,
+    "left": 464,
+    "right": 1068,
+    "W": 604,
+    "cx": 766.0
+   }
+  },
+  "friends/sora_base": {
+   "offset": [
+    0,
+    187
+   ],
+   "size": [
+    1536,
+    1445
+   ],
+   "anchor": [
+    0.49805,
+    0.38062
+   ],
+   "normalize": "identity",
+   "face_after": {
+    "top": 340,
+    "chin": 1076,
+    "left": 467,
+    "right": 1064,
+    "W": 597,
+    "cx": 765.5
+   },
+   "face_before": {
+    "top": 340,
+    "chin": 1076,
+    "left": 467,
+    "right": 1064,
+    "W": 597,
+    "cx": 765.5
+   }
+  },
+  "friends/minu_base": {
+   "offset": [
+    0,
+    189
+   ],
+   "size": [
+    1536,
+    1443
+   ],
+   "anchor": [
+    0.49805,
+    0.37976
+   ],
+   "normalize": "similarity s=0.9661 dx=-2.5 dy=7.0; jaw fit sx=1.0178 sy=1.0483 dx=-0.0 dy=-0.0 (mean dist 1.72->1.03 px)",
+   "face_after": {
+    "top": 386,
+    "chin": 1077,
+    "left": 461,
+    "right": 1069,
+    "W": 608,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 387,
+    "chin": 1070,
+    "left": 458,
+    "right": 1077,
+    "W": 619,
+    "cx": 767.5
+   }
+  },
+  "friends/halmi_base": {
+   "offset": [
+    0,
+    30
+   ],
+   "size": [
+    1536,
+    1602
+   ],
+   "anchor": [
+    0.49805,
+    0.44132
+   ],
+   "normalize": "similarity s=0.9967 dx=-2.0 dy=-45.0; jaw fit sx=1.0000 sy=1.0385 dx=0.0 dy=-0.0 (mean dist 1.30->0.66 px)",
+   "face_after": {
+    "top": 384,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 452,
+    "chin": 1122,
+    "left": 467,
+    "right": 1067,
+    "W": 600,
+    "cx": 767.0
+   }
+  },
+  "friends/jiho_base": {
+   "offset": [
+    0,
+    207
+   ],
+   "size": [
+    1536,
+    1425
+   ],
+   "anchor": [
+    0.49805,
+    0.37193
+   ],
+   "normalize": "similarity s=0.9692 dx=-3.5 dy=3.0",
+   "face_after": {
+    "top": 398,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 374,
+    "chin": 1074,
+    "left": 460,
+    "right": 1077,
+    "W": 617,
+    "cx": 768.5
+   }
+  },
+  "friends/hana_base": {
+   "offset": [
+    0,
+    197
+   ],
+   "size": [
+    1536,
+    1435
+   ],
+   "anchor": [
+    0.49805,
+    0.37631
+   ],
+   "normalize": "similarity s=1.0000 dx=-1.0 dy=4.0",
+   "face_after": {
+    "top": 406,
+    "chin": 1077,
+    "left": 466,
+    "right": 1064,
+    "W": 598,
+    "cx": 765.0
+   },
+   "face_before": {
+    "top": 402,
+    "chin": 1073,
+    "left": 467,
+    "right": 1065,
+    "W": 598,
+    "cx": 766.0
+   }
+  },
+  "face/eyes_closed": {
+   "offset": [
+    540,
+    556
+   ],
+   "size": [
+    452,
+    169
+   ],
+   "anchor": [
+    0.49779,
+    1.07101
+   ]
+  },
+  "face/eyes_open": {
+   "offset": [
+    540,
+    546
+   ],
+   "size": [
+    451,
+    213
+   ],
+   "anchor": [
+    0.49889,
+    0.89671
+   ]
+  },
+  "face/eyes_happy": {
+   "offset": [
+    532,
+    559
+   ],
+   "size": [
+    464,
+    171
+   ],
+   "anchor": [
+    0.50216,
+    1.04094
+   ]
+  },
+  "face/eyes_drowsy": {
+   "offset": [
+    527,
+    531
+   ],
+   "size": [
+    476,
+    199
+   ],
+   "anchor": [
+    0.5,
+    1.03518
+   ]
+  },
+  "face/eyes_star": {
+   "offset": [
+    533,
+    546
+   ],
+   "size": [
+    463,
+    226
+   ],
+   "anchor": [
+    0.50108,
+    0.84513
+   ]
+  },
+  "face/eyes_wink": {
+   "offset": [
+    527,
+    545
+   ],
+   "size": [
+    467,
+    221
+   ],
+   "anchor": [
+    0.50964,
+    0.86878
+   ]
+  },
+  "face/eyes_falling": {
+   "offset": [
+    541,
+    550
+   ],
+   "size": [
+    448,
+    173
+   ],
+   "anchor": [
+    0.5,
+    1.08092
+   ]
+  },
+  "face/mouth_o": {
+   "offset": [
+    733,
+    919
+   ],
+   "size": [
+    64,
+    67
+   ],
+   "anchor": [
+    0.5,
+    -2.71642
+   ]
+  },
+  "face/mouth_calm": {
+   "offset": [
+    703,
+    927
+   ],
+   "size": [
+    124,
+    51
+   ],
+   "anchor": [
+    0.5,
+    -3.72549
+   ]
+  },
+  "face/mouth_smile": {
+   "offset": [
+    701,
+    917
+   ],
+   "size": [
+    129,
+    71
+   ],
+   "anchor": [
+    0.49612,
+    -2.53521
+   ]
+  },
+  "face/mouth_yawn": {
+   "offset": [
+    721,
+    903
+   ],
+   "size": [
+    87,
+    124
+   ],
+   "anchor": [
+    0.50575,
+    -1.33871
+   ]
+  },
+  "face/mouth_w": {
+   "offset": [
+    712,
+    938
+   ],
+   "size": [
+    107,
+    30
+   ],
+   "anchor": [
+    0.49533,
+    -6.7
+   ]
+  },
+  "face/mouth_surprise": {
+   "offset": [
+    738,
+    926
+   ],
+   "size": [
+    54,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.5
+   ]
+  },
+  "face/nose": {
+   "offset": [
+    741,
+    820
+   ],
+   "size": [
+    48,
+    21
+   ],
+   "anchor": [
+    0.5,
+    -3.95238
+   ]
+  },
+  "face/cheeks": {
+   "offset": [
+    521,
+    728
+   ],
+   "size": [
+    487,
+    83
+   ],
+   "anchor": [
+    0.50103,
+    0.10843
+   ]
+  },
+  "face/mess_marker": {
+   "offset": [
+    505,
+    500
+   ],
+   "size": [
+    520,
+    377
+   ],
+   "anchor": [
+    0.5,
+    0.62865
+   ],
+   "forehead_fit": {
+    "target": [
+     765.0,
+     526.8
+    ],
+    "scale": 1.0,
+    "moved": [
+     0.0,
+     22.0
+    ]
+   }
+  },
+  "face/mess_marker_w1": {
+   "offset": [
+    505,
+    501
+   ],
+   "size": [
+    520,
+    375
+   ],
+   "anchor": [
+    0.5,
+    0.62933
+   ]
+  },
+  "face/mess_marker_w2": {
+   "offset": [
+    505,
+    518
+   ],
+   "size": [
+    516,
+    355
+   ],
+   "anchor": [
+    0.50388,
+    0.6169
+   ]
+  },
+  "face/mess_doodle": {
+   "offset": [
+    527,
+    480
+   ],
+   "size": [
+    420,
+    366
+   ],
+   "anchor": [
+    0.56667,
+    0.70219
+   ],
+   "forehead_fit": {
+    "target": [
+     896.6,
+     532.8
+    ],
+    "scale": 1.0,
+    "moved": [
+     -8.0,
+     8.0
+    ]
+   }
+  },
+  "face/mess_doodle_w1": {
+   "offset": [
+    528,
+    481
+   ],
+   "size": [
+    419,
+    364
+   ],
+   "anchor": [
+    0.56563,
+    0.7033
+   ]
+  },
+  "face/mess_doodle_w2": {
+   "offset": [
+    528,
+    496
+   ],
+   "size": [
+    409,
+    349
+   ],
+   "anchor": [
+    0.57946,
+    0.69054
+   ]
+  },
+  "face/mess_glitter": {
+   "offset": [
+    508,
+    504
+   ],
+   "size": [
+    504,
+    369
+   ],
+   "anchor": [
+    0.50992,
+    0.63144
+   ],
+   "forehead_fit": {
+    "target": [
+     645.4,
+     532.8
+    ],
+    "scale": 1.0,
+    "moved": [
+     -2.0,
+     20.0
+    ]
+   }
+  },
+  "face/mess_glitter_w1": {
+   "offset": [
+    508,
+    504
+   ],
+   "size": [
+    504,
+    369
+   ],
+   "anchor": [
+    0.50992,
+    0.63144
+   ]
+  },
+  "face/mess_glitter_w2": {
+   "offset": [
+    508,
+    511
+   ],
+   "size": [
+    504,
+    362
+   ],
+   "anchor": [
+    0.50992,
+    0.62431
+   ]
+  },
+  "face/mess_candy": {
+   "offset": [
+    518,
+    805
+   ],
+   "size": [
+    408,
+    207
+   ],
+   "anchor": [
+    0.60539,
+    -0.3285
+   ]
+  },
+  "face/mess_candy_w1": {
+   "offset": [
+    518,
+    805
+   ],
+   "size": [
+    408,
+    207
+   ],
+   "anchor": [
+    0.60539,
+    -0.3285
+   ]
+  },
+  "face/mess_candy_w2": {
+   "offset": [
+    523,
+    805
+   ],
+   "size": [
+    402,
+    188
+   ],
+   "anchor": [
+    0.60199,
+    -0.3617
+   ]
+  },
+  "face/mess_shadow": {
+   "offset": [
+    542,
+    595
+   ],
+   "size": [
+    446,
+    476
+   ],
+   "anchor": [
+    0.5,
+    0.29832
+   ]
+  },
+  "face/mess_shadow_w1": {
+   "offset": [
+    542,
+    596
+   ],
+   "size": [
+    446,
+    475
+   ],
+   "anchor": [
+    0.5,
+    0.29684
+   ]
+  },
+  "face/mess_shadow_w2": {
+   "offset": [
+    543,
+    598
+   ],
+   "size": [
+    444,
+    473
+   ],
+   "anchor": [
+    0.5,
+    0.29387
+   ]
+  },
+  "face/foam_start": {
+   "offset": [
+    469,
+    639
+   ],
+   "size": [
+    184,
+    248
+   ],
+   "anchor": [
+    1.6087,
+    0.39516
+   ]
+  },
+  "face/foam_light": {
+   "offset": [
+    469,
+    481
+   ],
+   "size": [
+    497,
+    595
+   ],
+   "anchor": [
+    0.59557,
+    0.43025
+   ]
+  },
+  "face/foam_full": {
+   "offset": [
+    469,
+    419
+   ],
+   "size": [
+    622,
+    657
+   ],
+   "anchor": [
+    0.47588,
+    0.48402
+   ]
+  },
+  "face/wet": {
+   "offset": [
+    502,
+    485
+   ],
+   "size": [
+    517,
+    548
+   ],
+   "anchor": [
+    0.5087,
+    0.45985
+   ]
+  },
+  "face/cream_dots": {
+   "offset": [
+    562,
+    480
+   ],
+   "size": [
+    406,
+    557
+   ],
+   "anchor": [
+    0.5,
+    0.4614
+   ]
+  },
+  "face/glow": {
+   "offset": [
+    351,
+    322
+   ],
+   "size": [
+    832,
+    736
+   ],
+   "anchor": [
+    0.4976,
+    0.56386
+   ]
+  },
+  "face/mask_sheet": {
+   "offset": [
+    470,
+    383
+   ],
+   "size": [
+    591,
+    700
+   ],
+   "anchor": [
+    0.49915,
+    0.50571
+   ],
+   "fit": "bbox 0.6533x0.8147 + piecewise hole warp"
+  },
+  "face/mask_peel1": {
+   "offset": [
+    469,
+    350
+   ],
+   "size": [
+    593,
+    734
+   ],
+   "anchor": [
+    0.49916,
+    0.52725
+   ]
+  },
+  "face/mask_peel2": {
+   "offset": [
+    469,
+    418
+   ],
+   "size": [
+    593,
+    665
+   ],
+   "anchor": [
+    0.49916,
+    0.4797
+   ]
+  },
+  "face/cucumbers": {
+   "offset": [
+    526,
+    609
+   ],
+   "size": [
+    477,
+    170
+   ],
+   "anchor": [
+    0.50105,
+    0.75294
+   ]
+  },
+  "face/headband_towel": {
+   "offset": [
+    404,
+    351
+   ],
+   "size": [
+    723,
+    420
+   ],
+   "anchor": [
+    0.49931,
+    0.91905
+   ]
+  },
+  "makeup/blush_rosy": {
+   "offset": [
+    524,
+    717
+   ],
+   "size": [
+    481,
+    105
+   ],
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/blush_heart": {
+   "offset": [
+    536,
+    731
+   ],
+   "size": [
+    458,
+    78
+   ],
+   "anchor": [
+    0.5,
+    0.07692
+   ]
+  },
+  "makeup/blush_peach": {
+   "offset": [
+    524,
+    719
+   ],
+   "size": [
+    481,
+    103
+   ],
+   "anchor": [
+    0.50104,
+    0.17476
+   ]
+  },
+  "makeup/blush_lilac": {
+   "offset": [
+    524,
+    717
+   ],
+   "size": [
+    481,
+    105
+   ],
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/blush_coral": {
+   "offset": [
+    524,
+    717
+   ],
+   "size": [
+    481,
+    105
+   ],
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/cheek_star": {
+   "offset": [
+    533,
+    739
+   ],
+   "size": [
+    464,
+    85
+   ],
+   "anchor": [
+    0.5,
+    -0.02353
+   ]
+  },
+  "makeup/cheek_flower": {
+   "offset": [
+    533,
+    739
+   ],
+   "size": [
+    464,
+    85
+   ],
+   "anchor": [
+    0.5,
+    -0.02353
+   ]
+  },
+  "makeup/cheek_freckles": {
+   "offset": [
+    544,
+    754
+   ],
+   "size": [
+    441,
+    55
+   ],
+   "anchor": [
+    0.50113,
+    -0.30909
+   ]
+  },
+  "makeup/cheek_heart": {
+   "offset": [
+    533,
+    744
+   ],
+   "size": [
+    464,
+    76
+   ],
+   "anchor": [
+    0.5,
+    -0.09211
+   ]
+  },
+  "makeup/lips_pink": {
+   "offset": [
+    696,
+    925
+   ],
+   "size": [
+    138,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_coral": {
+   "offset": [
+    698,
+    926
+   ],
+   "size": [
+    134,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.5
+   ]
+  },
+  "makeup/lips_berry": {
+   "offset": [
+    697,
+    925
+   ],
+   "size": [
+    136,
+    55
+   ],
+   "anchor": [
+    0.5,
+    -3.41818
+   ]
+  },
+  "makeup/lips_cherry": {
+   "offset": [
+    696,
+    925
+   ],
+   "size": [
+    138,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_peach": {
+   "offset": [
+    696,
+    925
+   ],
+   "size": [
+    138,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_lilac": {
+   "offset": [
+    696,
+    925
+   ],
+   "size": [
+    138,
+    54
+   ],
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/eyeglitter_gold": {
+   "offset": [
+    490,
+    645
+   ],
+   "size": [
+    551,
+    73
+   ],
+   "anchor": [
+    0.49909,
+    1.26027
+   ]
+  },
+  "makeup/eyeglitter_rainbow": {
+   "offset": [
+    490,
+    642
+   ],
+   "size": [
+    551,
+    79
+   ],
+   "anchor": [
+    0.49909,
+    1.20253
+   ]
+  },
+  "deco/band_bunny_worn": {
+   "offset": [
+    395,
+    130
+   ],
+   "size": [
+    741,
+    458
+   ],
+   "anchor": [
+    0.49933,
+    1.32533
+   ]
+  },
+  "deco/band_cat_worn": {
+   "offset": [
+    396,
+    259
+   ],
+   "size": [
+    742,
+    331
+   ],
+   "anchor": [
+    0.4973,
+    1.44411
+   ]
+  },
+  "deco/band_bear_worn": {
+   "offset": [
+    396,
+    253
+   ],
+   "size": [
+    739,
+    323
+   ],
+   "anchor": [
+    0.49932,
+    1.49845
+   ]
+  },
+  "deco/band_ribbon_worn": {
+   "offset": [
+    396,
+    251
+   ],
+   "size": [
+    738,
+    367
+   ],
+   "anchor": [
+    0.5,
+    1.32425
+   ]
+  },
+  "deco/tiara_worn": {
+   "offset": [
+    587,
+    129
+   ],
+   "size": [
+    356,
+    203
+   ],
+   "anchor": [
+    0.5,
+    2.99507
+   ]
+  },
+  "deco/flower_crown_worn": {
+   "offset": [
+    540,
+    153
+   ],
+   "size": [
+    450,
+    178
+   ],
+   "anchor": [
+    0.5,
+    3.2809
+   ]
+  },
+  "deco/bday_hat_worn": {
+   "offset": [
+    448,
+    0
+   ],
+   "size": [
+    634,
+    390
+   ],
+   "anchor": [
+    0.5,
+    1.88974
+   ]
+  },
+  "deco/bday_balloonband_worn": {
+   "offset": [
+    397,
+    148
+   ],
+   "size": [
+    735,
+    373
+   ],
+   "anchor": [
+    0.50068,
+    1.57909
+   ]
+  },
+  "deco/hw_witchhat_worn": {
+   "offset": [
+    388,
+    35
+   ],
+   "size": [
+    753,
+    471
+   ],
+   "anchor": [
+    0.50066,
+    1.49045
+   ]
+  },
+  "deco/hw_pumpkinband_worn": {
+   "offset": [
+    397,
+    153
+   ],
+   "size": [
+    736,
+    380
+   ],
+   "anchor": [
+    0.5,
+    1.53684
+   ]
+  },
+  "deco/xmas_santahat_worn": {
+   "offset": [
+    373,
+    146
+   ],
+   "size": [
+    783,
+    369
+   ],
+   "anchor": [
+    0.50064,
+    1.60163
+   ]
+  },
+  "deco/xmas_antlers_worn": {
+   "offset": [
+    373,
+    152
+   ],
+   "size": [
+    785,
+    394
+   ],
+   "anchor": [
+    0.49936,
+    1.48477
+   ]
+  }
+ }
+}
