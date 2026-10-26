@@ -1,0 +1,3245 @@
+{
+ "version": 1,
+ "images": {
+  "bg/album": {
+   "file": "bg/album.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/album_21x9": {
+   "file": "bg/album_21x9.webp",
+   "w": 3360,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/care_bed": {
+   "file": "bg/care_bed.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/care_bed_21x9": {
+   "file": "bg/care_bed_21x9.webp",
+   "w": 3360,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/care_bed_night": {
+   "file": "bg/care_bed_night.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/care_bed_night_21x9": {
+   "file": "bg/care_bed_night_21x9.webp",
+   "w": 3360,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/friend_select": {
+   "file": "bg/friend_select.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/friend_select_21x9": {
+   "file": "bg/friend_select_21x9.webp",
+   "w": 3360,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/title": {
+   "file": "bg/title.webp",
+   "w": 2560,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "bg/title_21x9": {
+   "file": "bg/title_21x9.webp",
+   "w": 3360,
+   "h": 1440,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/title_en": {
+   "file": "brand/title_en.webp",
+   "w": 988,
+   "h": 596,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "brand/title_ko": {
+   "file": "brand/title_ko.webp",
+   "w": 962,
+   "h": 601,
+   "logicalScale": 0.7,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/band_bear": {
+   "file": "deco/band_bear.webp",
+   "w": 302,
+   "h": 214,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/band_bear_worn": {
+   "file": "deco/band_bear_worn.webp",
+   "w": 739,
+   "h": 323,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49932,
+    1.49845
+   ]
+  },
+  "deco/band_bunny": {
+   "file": "deco/band_bunny.webp",
+   "w": 288,
+   "h": 287,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/band_bunny_worn": {
+   "file": "deco/band_bunny_worn.webp",
+   "w": 741,
+   "h": 458,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49933,
+    1.32533
+   ]
+  },
+  "deco/band_cat": {
+   "file": "deco/band_cat.webp",
+   "w": 298,
+   "h": 216,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/band_cat_worn": {
+   "file": "deco/band_cat_worn.webp",
+   "w": 742,
+   "h": 331,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.4973,
+    1.44411
+   ]
+  },
+  "deco/band_ribbon": {
+   "file": "deco/band_ribbon.webp",
+   "w": 307,
+   "h": 246,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/band_ribbon_worn": {
+   "file": "deco/band_ribbon_worn.webp",
+   "w": 738,
+   "h": 367,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    1.32425
+   ]
+  },
+  "deco/bday_balloon": {
+   "file": "deco/bday_balloon.webp",
+   "w": 235,
+   "h": 320,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_balloonband": {
+   "file": "deco/bday_balloonband.webp",
+   "w": 400,
+   "h": 325,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_balloonband_worn": {
+   "file": "deco/bday_balloonband_worn.webp",
+   "w": 735,
+   "h": 373,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50068,
+    1.57909
+   ]
+  },
+  "deco/bday_cake": {
+   "file": "deco/bday_cake.webp",
+   "w": 288,
+   "h": 334,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_gift": {
+   "file": "deco/bday_gift.webp",
+   "w": 269,
+   "h": 292,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_hat": {
+   "file": "deco/bday_hat.webp",
+   "w": 343,
+   "h": 400,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_hat_worn": {
+   "file": "deco/bday_hat_worn.webp",
+   "w": 634,
+   "h": 390,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    1.88974
+   ]
+  },
+  "deco/bday_paint_confetti": {
+   "file": "deco/bday_paint_confetti.webp",
+   "w": 286,
+   "h": 217,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_paint_partyhat": {
+   "file": "deco/bday_paint_partyhat.webp",
+   "w": 268,
+   "h": 260,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/bday_popper": {
+   "file": "deco/bday_popper.webp",
+   "w": 271,
+   "h": 276,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_bow": {
+   "file": "deco/clip_bow.webp",
+   "w": 284,
+   "h": 209,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_butterfly": {
+   "file": "deco/clip_butterfly.webp",
+   "w": 331,
+   "h": 189,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_daisy": {
+   "file": "deco/clip_daisy.webp",
+   "w": 303,
+   "h": 208,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_heart": {
+   "file": "deco/clip_heart.webp",
+   "w": 295,
+   "h": 170,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_star": {
+   "file": "deco/clip_star.webp",
+   "w": 286,
+   "h": 202,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/clip_strawberry": {
+   "file": "deco/clip_strawberry.webp",
+   "w": 276,
+   "h": 218,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/flower_crown": {
+   "file": "deco/flower_crown.webp",
+   "w": 356,
+   "h": 177,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/flower_crown_worn": {
+   "file": "deco/flower_crown_worn.webp",
+   "w": 450,
+   "h": 178,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    3.2809
+   ]
+  },
+  "deco/hw_blackcat": {
+   "file": "deco/hw_blackcat.webp",
+   "w": 312,
+   "h": 248,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_candy": {
+   "file": "deco/hw_candy.webp",
+   "w": 318,
+   "h": 195,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_ghost": {
+   "file": "deco/hw_ghost.webp",
+   "w": 294,
+   "h": 280,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_paint_bat": {
+   "file": "deco/hw_paint_bat.webp",
+   "w": 347,
+   "h": 187,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_paint_vine": {
+   "file": "deco/hw_paint_vine.webp",
+   "w": 287,
+   "h": 227,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_pumpkin": {
+   "file": "deco/hw_pumpkin.webp",
+   "w": 304,
+   "h": 291,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_pumpkinband": {
+   "file": "deco/hw_pumpkinband.webp",
+   "w": 400,
+   "h": 332,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_pumpkinband_worn": {
+   "file": "deco/hw_pumpkinband_worn.webp",
+   "w": 736,
+   "h": 380,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    1.53684
+   ]
+  },
+  "deco/hw_witchhat": {
+   "file": "deco/hw_witchhat.webp",
+   "w": 398,
+   "h": 400,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/hw_witchhat_worn": {
+   "file": "deco/hw_witchhat_worn.webp",
+   "w": 753,
+   "h": 471,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50066,
+    1.49045
+   ]
+  },
+  "deco/paint_butterfly": {
+   "file": "deco/paint_butterfly.webp",
+   "w": 273,
+   "h": 244,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/paint_heart": {
+   "file": "deco/paint_heart.webp",
+   "w": 253,
+   "h": 202,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/paint_rainbow": {
+   "file": "deco/paint_rainbow.webp",
+   "w": 307,
+   "h": 228,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/paint_stars": {
+   "file": "deco/paint_stars.webp",
+   "w": 260,
+   "h": 248,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/paint_vine": {
+   "file": "deco/paint_vine.webp",
+   "w": 337,
+   "h": 259,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/paint_wave": {
+   "file": "deco/paint_wave.webp",
+   "w": 312,
+   "h": 227,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_bunny": {
+   "file": "deco/sticker_bunny.webp",
+   "w": 226,
+   "h": 269,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_butterfly": {
+   "file": "deco/sticker_butterfly.webp",
+   "w": 252,
+   "h": 220,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_cloud": {
+   "file": "deco/sticker_cloud.webp",
+   "w": 264,
+   "h": 194,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_crown": {
+   "file": "deco/sticker_crown.webp",
+   "w": 245,
+   "h": 187,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_flower": {
+   "file": "deco/sticker_flower.webp",
+   "w": 236,
+   "h": 230,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_heart": {
+   "file": "deco/sticker_heart.webp",
+   "w": 238,
+   "h": 205,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_kitten": {
+   "file": "deco/sticker_kitten.webp",
+   "w": 259,
+   "h": 215,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_moon": {
+   "file": "deco/sticker_moon.webp",
+   "w": 228,
+   "h": 235,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_notes": {
+   "file": "deco/sticker_notes.webp",
+   "w": 242,
+   "h": 204,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_rainbow": {
+   "file": "deco/sticker_rainbow.webp",
+   "w": 310,
+   "h": 207,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_star": {
+   "file": "deco/sticker_star.webp",
+   "w": 245,
+   "h": 232,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/sticker_strawberry": {
+   "file": "deco/sticker_strawberry.webp",
+   "w": 209,
+   "h": 236,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/tiara": {
+   "file": "deco/tiara.webp",
+   "w": 300,
+   "h": 214,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/tiara_worn": {
+   "file": "deco/tiara_worn.webp",
+   "w": 356,
+   "h": 203,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    2.99507
+   ]
+  },
+  "deco/xmas_antlers": {
+   "file": "deco/xmas_antlers.webp",
+   "w": 400,
+   "h": 324,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_antlers_worn": {
+   "file": "deco/xmas_antlers_worn.webp",
+   "w": 785,
+   "h": 394,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49936,
+    1.48477
+   ]
+  },
+  "deco/xmas_candycane": {
+   "file": "deco/xmas_candycane.webp",
+   "w": 215,
+   "h": 326,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_gingerbread": {
+   "file": "deco/xmas_gingerbread.webp",
+   "w": 282,
+   "h": 327,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_paint_holly": {
+   "file": "deco/xmas_paint_holly.webp",
+   "w": 306,
+   "h": 206,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_paint_snowflake": {
+   "file": "deco/xmas_paint_snowflake.webp",
+   "w": 247,
+   "h": 254,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_santahat": {
+   "file": "deco/xmas_santahat.webp",
+   "w": 400,
+   "h": 302,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_santahat_worn": {
+   "file": "deco/xmas_santahat_worn.webp",
+   "w": 783,
+   "h": 369,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50064,
+    1.60163
+   ]
+  },
+  "deco/xmas_star": {
+   "file": "deco/xmas_star.webp",
+   "w": 296,
+   "h": 256,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "deco/xmas_tree": {
+   "file": "deco/xmas_tree.webp",
+   "w": 248,
+   "h": 336,
+   "logicalScale": 0.35,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "face/cheeks": {
+   "file": "face/cheeks.webp",
+   "w": 487,
+   "h": 83,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50103,
+    0.10843
+   ]
+  },
+  "face/cream_dots": {
+   "file": "face/cream_dots.webp",
+   "w": 406,
+   "h": 557,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.4614
+   ]
+  },
+  "face/cucumbers": {
+   "file": "face/cucumbers.webp",
+   "w": 477,
+   "h": 170,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50105,
+    0.75294
+   ]
+  },
+  "face/eyes_closed": {
+   "file": "face/eyes_closed.webp",
+   "w": 452,
+   "h": 169,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49779,
+    1.07101
+   ]
+  },
+  "face/eyes_drowsy": {
+   "file": "face/eyes_drowsy.webp",
+   "w": 476,
+   "h": 199,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    1.03518
+   ]
+  },
+  "face/eyes_falling": {
+   "file": "face/eyes_falling.webp",
+   "w": 448,
+   "h": 173,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    1.08092
+   ]
+  },
+  "face/eyes_happy": {
+   "file": "face/eyes_happy.webp",
+   "w": 464,
+   "h": 171,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50216,
+    1.04094
+   ]
+  },
+  "face/eyes_open": {
+   "file": "face/eyes_open.webp",
+   "w": 451,
+   "h": 213,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49889,
+    0.89671
+   ]
+  },
+  "face/eyes_star": {
+   "file": "face/eyes_star.webp",
+   "w": 463,
+   "h": 226,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50108,
+    0.84513
+   ]
+  },
+  "face/eyes_wink": {
+   "file": "face/eyes_wink.webp",
+   "w": 467,
+   "h": 221,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50964,
+    0.86878
+   ]
+  },
+  "face/foam_full": {
+   "file": "face/foam_full.webp",
+   "w": 622,
+   "h": 657,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.47588,
+    0.48402
+   ]
+  },
+  "face/foam_light": {
+   "file": "face/foam_light.webp",
+   "w": 497,
+   "h": 595,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.59557,
+    0.43025
+   ]
+  },
+  "face/foam_start": {
+   "file": "face/foam_start.webp",
+   "w": 184,
+   "h": 248,
+   "logicalScale": 0.666667,
+   "anchor": [
+    1.6087,
+    0.39516
+   ]
+  },
+  "face/glow": {
+   "file": "face/glow.webp",
+   "w": 832,
+   "h": 736,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.4976,
+    0.56386
+   ]
+  },
+  "face/headband_towel": {
+   "file": "face/headband_towel.webp",
+   "w": 723,
+   "h": 420,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49931,
+    0.91905
+   ]
+  },
+  "face/mask_peel1": {
+   "file": "face/mask_peel1.webp",
+   "w": 593,
+   "h": 734,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49916,
+    0.52725
+   ]
+  },
+  "face/mask_peel2": {
+   "file": "face/mask_peel2.webp",
+   "w": 593,
+   "h": 665,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49916,
+    0.4797
+   ]
+  },
+  "face/mask_sheet": {
+   "file": "face/mask_sheet.webp",
+   "w": 591,
+   "h": 700,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49915,
+    0.50571
+   ]
+  },
+  "face/mess_candy": {
+   "file": "face/mess_candy.webp",
+   "w": 408,
+   "h": 207,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.60539,
+    -0.3285
+   ]
+  },
+  "face/mess_candy_w1": {
+   "file": "face/mess_candy_w1.webp",
+   "w": 408,
+   "h": 207,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.60539,
+    -0.3285
+   ]
+  },
+  "face/mess_candy_w2": {
+   "file": "face/mess_candy_w2.webp",
+   "w": 402,
+   "h": 188,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.60199,
+    -0.3617
+   ]
+  },
+  "face/mess_doodle": {
+   "file": "face/mess_doodle.webp",
+   "w": 420,
+   "h": 366,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.56667,
+    0.70219
+   ]
+  },
+  "face/mess_doodle_w1": {
+   "file": "face/mess_doodle_w1.webp",
+   "w": 419,
+   "h": 364,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.56563,
+    0.7033
+   ]
+  },
+  "face/mess_doodle_w2": {
+   "file": "face/mess_doodle_w2.webp",
+   "w": 409,
+   "h": 349,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.57946,
+    0.69054
+   ]
+  },
+  "face/mess_glitter": {
+   "file": "face/mess_glitter.webp",
+   "w": 504,
+   "h": 369,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50992,
+    0.63144
+   ]
+  },
+  "face/mess_glitter_w1": {
+   "file": "face/mess_glitter_w1.webp",
+   "w": 504,
+   "h": 369,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50992,
+    0.63144
+   ]
+  },
+  "face/mess_glitter_w2": {
+   "file": "face/mess_glitter_w2.webp",
+   "w": 504,
+   "h": 362,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50992,
+    0.62431
+   ]
+  },
+  "face/mess_marker": {
+   "file": "face/mess_marker.webp",
+   "w": 520,
+   "h": 377,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.62865
+   ]
+  },
+  "face/mess_marker_w1": {
+   "file": "face/mess_marker_w1.webp",
+   "w": 520,
+   "h": 375,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.62933
+   ]
+  },
+  "face/mess_marker_w2": {
+   "file": "face/mess_marker_w2.webp",
+   "w": 516,
+   "h": 355,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50388,
+    0.6169
+   ]
+  },
+  "face/mess_shadow": {
+   "file": "face/mess_shadow.webp",
+   "w": 446,
+   "h": 476,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.29832
+   ]
+  },
+  "face/mess_shadow_w1": {
+   "file": "face/mess_shadow_w1.webp",
+   "w": 446,
+   "h": 475,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.29684
+   ]
+  },
+  "face/mess_shadow_w2": {
+   "file": "face/mess_shadow_w2.webp",
+   "w": 444,
+   "h": 473,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.29387
+   ]
+  },
+  "face/mouth_calm": {
+   "file": "face/mouth_calm.webp",
+   "w": 124,
+   "h": 51,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.72549
+   ]
+  },
+  "face/mouth_o": {
+   "file": "face/mouth_o.webp",
+   "w": 64,
+   "h": 67,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -2.71642
+   ]
+  },
+  "face/mouth_smile": {
+   "file": "face/mouth_smile.webp",
+   "w": 129,
+   "h": 71,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49612,
+    -2.53521
+   ]
+  },
+  "face/mouth_surprise": {
+   "file": "face/mouth_surprise.webp",
+   "w": 54,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.5
+   ]
+  },
+  "face/mouth_w": {
+   "file": "face/mouth_w.webp",
+   "w": 107,
+   "h": 30,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49533,
+    -6.7
+   ]
+  },
+  "face/mouth_yawn": {
+   "file": "face/mouth_yawn.webp",
+   "w": 87,
+   "h": 124,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50575,
+    -1.33871
+   ]
+  },
+  "face/nose": {
+   "file": "face/nose.webp",
+   "w": 48,
+   "h": 21,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.95238
+   ]
+  },
+  "face/wet": {
+   "file": "face/wet.webp",
+   "w": 517,
+   "h": 548,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5087,
+    0.45985
+   ]
+  },
+  "friends/doyun_base": {
+   "file": "friends/doyun_base.webp",
+   "w": 1536,
+   "h": 1466,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.3895
+   ]
+  },
+  "friends/doyun_happy": {
+   "file": "friends/doyun_happy.webp",
+   "w": 452,
+   "h": 474,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/doyun_shy": {
+   "file": "friends/doyun_shy.webp",
+   "w": 452,
+   "h": 474,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/doyun_sleepy": {
+   "file": "friends/doyun_sleepy.webp",
+   "w": 452,
+   "h": 474,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/doyun_wow": {
+   "file": "friends/doyun_wow.webp",
+   "w": 452,
+   "h": 474,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/halmi_base": {
+   "file": "friends/halmi_base.webp",
+   "w": 1536,
+   "h": 1602,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.44132
+   ]
+  },
+  "friends/halmi_happy": {
+   "file": "friends/halmi_happy.webp",
+   "w": 486,
+   "h": 514,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/halmi_shy": {
+   "file": "friends/halmi_shy.webp",
+   "w": 486,
+   "h": 514,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/halmi_sleepy": {
+   "file": "friends/halmi_sleepy.webp",
+   "w": 486,
+   "h": 514,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/halmi_wow": {
+   "file": "friends/halmi_wow.webp",
+   "w": 486,
+   "h": 514,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/hana_base": {
+   "file": "friends/hana_base.webp",
+   "w": 1536,
+   "h": 1435,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.37631
+   ]
+  },
+  "friends/hana_happy": {
+   "file": "friends/hana_happy.webp",
+   "w": 508,
+   "h": 447,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/hana_shy": {
+   "file": "friends/hana_shy.webp",
+   "w": 508,
+   "h": 447,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/hana_sleepy": {
+   "file": "friends/hana_sleepy.webp",
+   "w": 508,
+   "h": 447,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/hana_wow": {
+   "file": "friends/hana_wow.webp",
+   "w": 508,
+   "h": 447,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/jiho_base": {
+   "file": "friends/jiho_base.webp",
+   "w": 1536,
+   "h": 1425,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.37193
+   ]
+  },
+  "friends/jiho_happy": {
+   "file": "friends/jiho_happy.webp",
+   "w": 472,
+   "h": 453,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/jiho_shy": {
+   "file": "friends/jiho_shy.webp",
+   "w": 472,
+   "h": 453,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/jiho_sleepy": {
+   "file": "friends/jiho_sleepy.webp",
+   "w": 472,
+   "h": 453,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/jiho_wow": {
+   "file": "friends/jiho_wow.webp",
+   "w": 472,
+   "h": 453,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/mia_base": {
+   "file": "friends/mia_base.webp",
+   "w": 1536,
+   "h": 1467,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.38991
+   ]
+  },
+  "friends/mia_happy": {
+   "file": "friends/mia_happy.webp",
+   "w": 503,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/mia_shy": {
+   "file": "friends/mia_shy.webp",
+   "w": 503,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/mia_sleepy": {
+   "file": "friends/mia_sleepy.webp",
+   "w": 503,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/mia_wow": {
+   "file": "friends/mia_wow.webp",
+   "w": 503,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/minu_base": {
+   "file": "friends/minu_base.webp",
+   "w": 1536,
+   "h": 1443,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.37976
+   ]
+  },
+  "friends/minu_happy": {
+   "file": "friends/minu_happy.webp",
+   "w": 524,
+   "h": 492,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/minu_shy": {
+   "file": "friends/minu_shy.webp",
+   "w": 524,
+   "h": 492,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/minu_sleepy": {
+   "file": "friends/minu_sleepy.webp",
+   "w": 524,
+   "h": 492,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/minu_wow": {
+   "file": "friends/minu_wow.webp",
+   "w": 524,
+   "h": 492,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/sora_base": {
+   "file": "friends/sora_base.webp",
+   "w": 1536,
+   "h": 1445,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.38062
+   ]
+  },
+  "friends/sora_happy": {
+   "file": "friends/sora_happy.webp",
+   "w": 400,
+   "h": 370,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/sora_shy": {
+   "file": "friends/sora_shy.webp",
+   "w": 400,
+   "h": 370,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/sora_sleepy": {
+   "file": "friends/sora_sleepy.webp",
+   "w": 400,
+   "h": 370,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/sora_wow": {
+   "file": "friends/sora_wow.webp",
+   "w": 400,
+   "h": 370,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/yuna_base": {
+   "file": "friends/yuna_base.webp",
+   "w": 1536,
+   "h": 1444,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49805,
+    0.38019
+   ]
+  },
+  "friends/yuna_happy": {
+   "file": "friends/yuna_happy.webp",
+   "w": 511,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/yuna_shy": {
+   "file": "friends/yuna_shy.webp",
+   "w": 511,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/yuna_sleepy": {
+   "file": "friends/yuna_sleepy.webp",
+   "w": 511,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "friends/yuna_wow": {
+   "file": "friends/yuna_wow.webp",
+   "w": 511,
+   "h": 475,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "fx/bubble": {
+   "file": "fx/bubble.webp",
+   "w": 213,
+   "h": 209,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/bubbles": {
+   "file": "fx/bubbles.webp",
+   "w": 220,
+   "h": 230,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/confetti": {
+   "file": "fx/confetti.webp",
+   "w": 246,
+   "h": 269,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/cream_dollop": {
+   "file": "fx/cream_dollop.webp",
+   "w": 232,
+   "h": 216,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/drop": {
+   "file": "fx/drop.webp",
+   "w": 133,
+   "h": 190,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/droplets": {
+   "file": "fx/droplets.webp",
+   "w": 268,
+   "h": 267,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/flash": {
+   "file": "fx/flash.webp",
+   "w": 223,
+   "h": 276,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/foam_l": {
+   "file": "fx/foam_l.webp",
+   "w": 239,
+   "h": 218,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/foam_m": {
+   "file": "fx/foam_m.webp",
+   "w": 190,
+   "h": 176,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/foam_s": {
+   "file": "fx/foam_s.webp",
+   "w": 147,
+   "h": 144,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/foam_xl": {
+   "file": "fx/foam_xl.webp",
+   "w": 284,
+   "h": 268,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/glow_pink": {
+   "file": "fx/glow_pink.webp",
+   "w": 274,
+   "h": 264,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/glow_ring": {
+   "file": "fx/glow_ring.webp",
+   "w": 275,
+   "h": 293,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/heart": {
+   "file": "fx/heart.webp",
+   "w": 195,
+   "h": 160,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/hearts": {
+   "file": "fx/hearts.webp",
+   "w": 243,
+   "h": 252,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/moon": {
+   "file": "fx/moon.webp",
+   "w": 206,
+   "h": 210,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/poof": {
+   "file": "fx/poof.webp",
+   "w": 225,
+   "h": 261,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/rainbow_trail": {
+   "file": "fx/rainbow_trail.webp",
+   "w": 217,
+   "h": 294,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/shine": {
+   "file": "fx/shine.webp",
+   "w": 255,
+   "h": 222,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/sparkle": {
+   "file": "fx/sparkle.webp",
+   "w": 163,
+   "h": 187,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/splash": {
+   "file": "fx/splash.webp",
+   "w": 177,
+   "h": 206,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/star": {
+   "file": "fx/star.webp",
+   "w": 158,
+   "h": 152,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/steam": {
+   "file": "fx/steam.webp",
+   "w": 166,
+   "h": 234,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "fx/zzz": {
+   "file": "fx/zzz.webp",
+   "w": 243,
+   "h": 262,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "makeup/blush_coral": {
+   "file": "makeup/blush_coral.webp",
+   "w": 481,
+   "h": 105,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/blush_heart": {
+   "file": "makeup/blush_heart.webp",
+   "w": 458,
+   "h": 78,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    0.07692
+   ]
+  },
+  "makeup/blush_lilac": {
+   "file": "makeup/blush_lilac.webp",
+   "w": 481,
+   "h": 105,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/blush_peach": {
+   "file": "makeup/blush_peach.webp",
+   "w": 481,
+   "h": 103,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50104,
+    0.17476
+   ]
+  },
+  "makeup/blush_rosy": {
+   "file": "makeup/blush_rosy.webp",
+   "w": 481,
+   "h": 105,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50104,
+    0.19048
+   ]
+  },
+  "makeup/cheek_flower": {
+   "file": "makeup/cheek_flower.webp",
+   "w": 464,
+   "h": 85,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -0.02353
+   ]
+  },
+  "makeup/cheek_freckles": {
+   "file": "makeup/cheek_freckles.webp",
+   "w": 441,
+   "h": 55,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.50113,
+    -0.30909
+   ]
+  },
+  "makeup/cheek_heart": {
+   "file": "makeup/cheek_heart.webp",
+   "w": 464,
+   "h": 76,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -0.09211
+   ]
+  },
+  "makeup/cheek_star": {
+   "file": "makeup/cheek_star.webp",
+   "w": 464,
+   "h": 85,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -0.02353
+   ]
+  },
+  "makeup/eyeglitter_gold": {
+   "file": "makeup/eyeglitter_gold.webp",
+   "w": 551,
+   "h": 73,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49909,
+    1.26027
+   ]
+  },
+  "makeup/eyeglitter_rainbow": {
+   "file": "makeup/eyeglitter_rainbow.webp",
+   "w": 551,
+   "h": 79,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.49909,
+    1.20253
+   ]
+  },
+  "makeup/lips_berry": {
+   "file": "makeup/lips_berry.webp",
+   "w": 136,
+   "h": 55,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.41818
+   ]
+  },
+  "makeup/lips_cherry": {
+   "file": "makeup/lips_cherry.webp",
+   "w": 138,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_coral": {
+   "file": "makeup/lips_coral.webp",
+   "w": 134,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.5
+   ]
+  },
+  "makeup/lips_lilac": {
+   "file": "makeup/lips_lilac.webp",
+   "w": 138,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_peach": {
+   "file": "makeup/lips_peach.webp",
+   "w": 138,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "makeup/lips_pink": {
+   "file": "makeup/lips_pink.webp",
+   "w": 138,
+   "h": 54,
+   "logicalScale": 0.666667,
+   "anchor": [
+    0.5,
+    -3.48148
+   ]
+  },
+  "mess/candy_blue": {
+   "file": "mess/candy_blue.webp",
+   "w": 244,
+   "h": 193,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/candy_green": {
+   "file": "mess/candy_green.webp",
+   "w": 244,
+   "h": 193,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/candy_pink": {
+   "file": "mess/candy_pink.webp",
+   "w": 256,
+   "h": 210,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/doodle_star": {
+   "file": "mess/doodle_star.webp",
+   "w": 244,
+   "h": 246,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/doodle_sun": {
+   "file": "mess/doodle_sun.webp",
+   "w": 278,
+   "h": 291,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/doodle_swirl": {
+   "file": "mess/doodle_swirl.webp",
+   "w": 218,
+   "h": 203,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/glitter_gold": {
+   "file": "mess/glitter_gold.webp",
+   "w": 235,
+   "h": 214,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/glitter_rainbow": {
+   "file": "mess/glitter_rainbow.webp",
+   "w": 233,
+   "h": 221,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/lipstick_scribble": {
+   "file": "mess/lipstick_scribble.webp",
+   "w": 258,
+   "h": 209,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/shadow_blue": {
+   "file": "mess/shadow_blue.webp",
+   "w": 262,
+   "h": 202,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/shadow_lilac": {
+   "file": "mess/shadow_lilac.webp",
+   "w": 267,
+   "h": 209,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/shadow_peach": {
+   "file": "mess/shadow_peach.webp",
+   "w": 267,
+   "h": 219,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/whiskers_L": {
+   "file": "mess/whiskers_L.webp",
+   "w": 114,
+   "h": 143,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "mess/whiskers_R": {
+   "file": "mess/whiskers_R.webp",
+   "w": 115,
+   "h": 148,
+   "logicalScale": 0.4,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/story_1_night": {
+   "file": "story/story_1_night.webp",
+   "w": 1344,
+   "h": 752,
+   "logicalScale": 1.428571,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/story_2_knock": {
+   "file": "story/story_2_knock.webp",
+   "w": 1344,
+   "h": 752,
+   "logicalScale": 1.428571,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/story_3_idea": {
+   "file": "story/story_3_idea.webp",
+   "w": 1344,
+   "h": 752,
+   "logicalScale": 1.428571,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "story/story_4_sleep": {
+   "file": "story/story_4_sleep.webp",
+   "w": 1344,
+   "h": 752,
+   "logicalScale": 1.428571,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/blush_compact": {
+   "file": "tools/blush_compact.webp",
+   "w": 313,
+   "h": 301,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/bowl": {
+   "file": "tools/bowl.webp",
+   "w": 369,
+   "h": 236,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/brush": {
+   "file": "tools/brush.webp",
+   "w": 248,
+   "h": 229,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/brush_foamy": {
+   "file": "tools/brush_foamy.webp",
+   "w": 300,
+   "h": 269,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/cream_jar": {
+   "file": "tools/cream_jar.webp",
+   "w": 243,
+   "h": 215,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/cream_jar_dipped": {
+   "file": "tools/cream_jar_dipped.webp",
+   "w": 319,
+   "h": 207,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/cream_jar_open": {
+   "file": "tools/cream_jar_open.webp",
+   "w": 320,
+   "h": 204,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/cucumber": {
+   "file": "tools/cucumber.webp",
+   "w": 272,
+   "h": 265,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/cucumber_plate": {
+   "file": "tools/cucumber_plate.webp",
+   "w": 296,
+   "h": 231,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/foam_pump": {
+   "file": "tools/foam_pump.webp",
+   "w": 199,
+   "h": 296,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/foam_pump_on": {
+   "file": "tools/foam_pump_on.webp",
+   "w": 293,
+   "h": 305,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/glitter_jar": {
+   "file": "tools/glitter_jar.webp",
+   "w": 221,
+   "h": 263,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/gloss_berry": {
+   "file": "tools/gloss_berry.webp",
+   "w": 142,
+   "h": 302,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/gloss_coral": {
+   "file": "tools/gloss_coral.webp",
+   "w": 140,
+   "h": 299,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/gloss_pink": {
+   "file": "tools/gloss_pink.webp",
+   "w": 143,
+   "h": 299,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/headband": {
+   "file": "tools/headband.webp",
+   "w": 346,
+   "h": 231,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/mask_pouch": {
+   "file": "tools/mask_pouch.webp",
+   "w": 257,
+   "h": 250,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/mask_used": {
+   "file": "tools/mask_used.webp",
+   "w": 279,
+   "h": 304,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pad": {
+   "file": "tools/pad.webp",
+   "w": 251,
+   "h": 192,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pad_box": {
+   "file": "tools/pad_box.webp",
+   "w": 252,
+   "h": 261,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pad_toner": {
+   "file": "tools/pad_toner.webp",
+   "w": 277,
+   "h": 262,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pad_used": {
+   "file": "tools/pad_used.webp",
+   "w": 294,
+   "h": 283,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pad_wet": {
+   "file": "tools/pad_wet.webp",
+   "w": 286,
+   "h": 275,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/pads_stack": {
+   "file": "tools/pads_stack.webp",
+   "w": 224,
+   "h": 210,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/remover": {
+   "file": "tools/remover.webp",
+   "w": 168,
+   "h": 324,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/sponge": {
+   "file": "tools/sponge.webp",
+   "w": 219,
+   "h": 255,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/sponge_wet": {
+   "file": "tools/sponge_wet.webp",
+   "w": 216,
+   "h": 289,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/sticker_sheet": {
+   "file": "tools/sticker_sheet.webp",
+   "w": 257,
+   "h": 286,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/toner": {
+   "file": "tools/toner.webp",
+   "w": 147,
+   "h": 333,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/towel": {
+   "file": "tools/towel.webp",
+   "w": 348,
+   "h": 233,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/towel_damp": {
+   "file": "tools/towel_damp.webp",
+   "w": 348,
+   "h": 232,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/tray": {
+   "file": "tools/tray.webp",
+   "w": 353,
+   "h": 179,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/wipe": {
+   "file": "tools/wipe.webp",
+   "w": 284,
+   "h": 185,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/wipe_used": {
+   "file": "tools/wipe_used.webp",
+   "w": 322,
+   "h": 261,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "tools/wipes_pack": {
+   "file": "tools/wipes_pack.webp",
+   "w": 348,
+   "h": 200,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/arrow_circle": {
+   "file": "ui/arrow_circle.webp",
+   "w": 207,
+   "h": 203,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/arrow_curve": {
+   "file": "ui/arrow_curve.webp",
+   "w": 249,
+   "h": 110,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/badge_dot": {
+   "file": "ui/badge_dot.webp",
+   "w": 137,
+   "h": 137,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_lavender": {
+   "file": "ui/btn_lavender.webp",
+   "w": 492,
+   "h": 146,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_mint": {
+   "file": "ui/btn_mint.webp",
+   "w": 491,
+   "h": 147,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_pink": {
+   "file": "ui/btn_pink.webp",
+   "w": 492,
+   "h": 147,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_round_lavender": {
+   "file": "ui/btn_round_lavender.webp",
+   "w": 200,
+   "h": 196,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_round_mint": {
+   "file": "ui/btn_round_mint.webp",
+   "w": 200,
+   "h": 198,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_round_pink": {
+   "file": "ui/btn_round_pink.webp",
+   "w": 200,
+   "h": 198,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/btn_sky": {
+   "file": "ui/btn_sky.webp",
+   "w": 492,
+   "h": 147,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/bubble_talk": {
+   "file": "ui/bubble_talk.webp",
+   "w": 368,
+   "h": 253,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/card_pillow": {
+   "file": "ui/card_pillow.webp",
+   "w": 425,
+   "h": 361,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/frame_mirror": {
+   "file": "ui/frame_mirror.webp",
+   "w": 360,
+   "h": 523,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/frame_photo": {
+   "file": "ui/frame_photo.webp",
+   "w": 449,
+   "h": 494,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/hand_drag": {
+   "file": "ui/hand_drag.webp",
+   "w": 311,
+   "h": 296,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/hand_rub": {
+   "file": "ui/hand_rub.webp",
+   "w": 224,
+   "h": 299,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/hand_tap": {
+   "file": "ui/hand_tap.webp",
+   "w": 208,
+   "h": 320,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/heart_empty": {
+   "file": "ui/heart_empty.webp",
+   "w": 209,
+   "h": 180,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/heart_full": {
+   "file": "ui/heart_full.webp",
+   "w": 217,
+   "h": 184,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_arrow_left": {
+   "file": "ui/icon_arrow_left.webp",
+   "w": 209,
+   "h": 181,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_arrow_right": {
+   "file": "ui/icon_arrow_right.webp",
+   "w": 204,
+   "h": 180,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_bed": {
+   "file": "ui/icon_bed.webp",
+   "w": 236,
+   "h": 225,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_care": {
+   "file": "ui/icon_care.webp",
+   "w": 216,
+   "h": 220,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_check": {
+   "file": "ui/icon_check.webp",
+   "w": 212,
+   "h": 174,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_cleanse": {
+   "file": "ui/icon_cleanse.webp",
+   "w": 218,
+   "h": 199,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_clock": {
+   "file": "ui/icon_clock.webp",
+   "w": 219,
+   "h": 231,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_close": {
+   "file": "ui/icon_close.webp",
+   "w": 186,
+   "h": 184,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_friends": {
+   "file": "ui/icon_friends.webp",
+   "w": 256,
+   "h": 189,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_gift": {
+   "file": "ui/icon_gift.webp",
+   "w": 217,
+   "h": 224,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_globe": {
+   "file": "ui/icon_globe.webp",
+   "w": 208,
+   "h": 206,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_hint": {
+   "file": "ui/icon_hint.webp",
+   "w": 234,
+   "h": 221,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_home": {
+   "file": "ui/icon_home.webp",
+   "w": 230,
+   "h": 226,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_lock": {
+   "file": "ui/icon_lock.webp",
+   "w": 193,
+   "h": 224,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_makeup": {
+   "file": "ui/icon_makeup.webp",
+   "w": 161,
+   "h": 255,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_mirror": {
+   "file": "ui/icon_mirror.webp",
+   "w": 182,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_music_off": {
+   "file": "ui/icon_music_off.webp",
+   "w": 181,
+   "h": 203,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_music_on": {
+   "file": "ui/icon_music_on.webp",
+   "w": 182,
+   "h": 202,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_pause": {
+   "file": "ui/icon_pause.webp",
+   "w": 178,
+   "h": 200,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_photo": {
+   "file": "ui/icon_photo.webp",
+   "w": 231,
+   "h": 193,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_play": {
+   "file": "ui/icon_play.webp",
+   "w": 177,
+   "h": 201,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_retry": {
+   "file": "ui/icon_retry.webp",
+   "w": 210,
+   "h": 223,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_settings": {
+   "file": "ui/icon_settings.webp",
+   "w": 220,
+   "h": 220,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_sleep": {
+   "file": "ui/icon_sleep.webp",
+   "w": 212,
+   "h": 219,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_sound_off": {
+   "file": "ui/icon_sound_off.webp",
+   "w": 225,
+   "h": 188,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_sound_on": {
+   "file": "ui/icon_sound_on.webp",
+   "w": 225,
+   "h": 199,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_stickerbook": {
+   "file": "ui/icon_stickerbook.webp",
+   "w": 191,
+   "h": 227,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_undo": {
+   "file": "ui/icon_undo.webp",
+   "w": 197,
+   "h": 193,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_vibrate": {
+   "file": "ui/icon_vibrate.webp",
+   "w": 235,
+   "h": 224,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/icon_wand": {
+   "file": "ui/icon_wand.webp",
+   "w": 203,
+   "h": 242,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/panel_lavender": {
+   "file": "ui/panel_lavender.webp",
+   "w": 324,
+   "h": 320,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/panel_mint": {
+   "file": "ui/panel_mint.webp",
+   "w": 324,
+   "h": 320,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/panel_paper": {
+   "file": "ui/panel_paper.webp",
+   "w": 324,
+   "h": 320,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/ribbon_steps": {
+   "file": "ui/ribbon_steps.webp",
+   "w": 552,
+   "h": 190,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/ribbon_title": {
+   "file": "ui/ribbon_title.webp",
+   "w": 615,
+   "h": 196,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/stamp_done": {
+   "file": "ui/stamp_done.webp",
+   "w": 197,
+   "h": 196,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/star_empty": {
+   "file": "ui/star_empty.webp",
+   "w": 192,
+   "h": 189,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/star_full": {
+   "file": "ui/star_full.webp",
+   "w": 200,
+   "h": 194,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/tap_ring": {
+   "file": "ui/tap_ring.webp",
+   "w": 248,
+   "h": 239,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "hosts/hari_idle": {
+   "file": "hosts/hari_idle.webp",
+   "w": 672,
+   "h": 640,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_wink": {
+   "file": "hosts/hari_wink.webp",
+   "w": 672,
+   "h": 640,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_cheer": {
+   "file": "hosts/hari_cheer.webp",
+   "w": 672,
+   "h": 640,
+   "logicalScale": 0.75,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_talk": {
+   "file": "hosts/hari_talk.webp",
+   "w": 334,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_smile": {
+   "file": "hosts/hari_smile.webp",
+   "w": 331,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_wow": {
+   "file": "hosts/hari_wow.webp",
+   "w": 326,
+   "h": 422,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_worried": {
+   "file": "hosts/hari_worried.webp",
+   "w": 337,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "ui/coin": {
+   "file": "ui/coin.webp",
+   "w": 256,
+   "h": 256,
+   "logicalScale": 0.5,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "ui/ad_tv": {
+   "file": "ui/ad_tv.webp",
+   "w": 128,
+   "h": 128,
+   "logicalScale": 1,
+   "anchor": [
+    0.5,
+    0.5
+   ]
+  },
+  "hosts/hari_shh": {
+   "file": "hosts/hari_shh.webp",
+   "w": 337,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_proud": {
+   "file": "hosts/hari_proud.webp",
+   "w": 338,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_yawn": {
+   "file": "hosts/hari_yawn.webp",
+   "w": 338,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  },
+  "hosts/hari_giggle": {
+   "file": "hosts/hari_giggle.webp",
+   "w": 338,
+   "h": 423,
+   "logicalScale": 0.8,
+   "anchor": [
+    0.5,
+    1
+   ]
+  }
+ }
+}
